@@ -1,12 +1,9 @@
-## attention is all you need
-[attention is all you need](https://arxiv.org/pdf/1706.03762)
+## [attention is all you need](https://arxiv.org/pdf/1706.03762)
 
-### who wrote?
-- Ashish Vaswani
-- Noam Shazeer
-- Niki Parmar
-- Jakob Uszkoreit
-- Llion Jones
-- Aidan N. Gomez
-- Łukasz Kaiser
-- Illia Polosukhin
+
+| title | attention is all you need |
+| --- | --- |
+| authors | `Ashish Vaswani` `Noam Shazeer` `Niki Parmar` `Jakob Uszkoreit` `Llion Jones` `Aidan N. Gomez` `Łukasz Kaiser` `Illia Polosukhin` |
+| published | 2017 |
+| link | [https://arxiv.org/pdf/1706.03762](https://arxiv.org/pdf/1706.03762) |
+<!-- |  |  | -->
